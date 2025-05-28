@@ -1,0 +1,3 @@
+OgrenciAdi   Ogrenci Soyadi   Ogrenci No
+Ertuðrul     Kýraç            2151541
+Ert     K                 21

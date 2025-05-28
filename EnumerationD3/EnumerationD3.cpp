@@ -10,12 +10,12 @@ int main()
     enum Cinsiyet { Erkek, Kadin };
 
     Cinsiyet cinsiyet = Erkek;
-
-    switch (cinsiyet) {
-    case Erkek:
+    int Tip = Kadin;
+    switch (Tip) {
+    case 0:
         cout << "Cinsiyet :  Erkek";
         break;
-    case Kadin:
+    case 1:
         cout << "Cinsiyet :  Kadin";
         break;
     default:
